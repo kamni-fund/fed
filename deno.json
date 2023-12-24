@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --allow-net hello.ts",
-    "test": "deno test --allow-net hello.ts"
+    "dev": "deno run --allow-net fed.ts",
+    "test": "deno test -A"
   }
 }
